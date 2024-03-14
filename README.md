@@ -31,13 +31,10 @@ I'm an indie Android developer, fueled by curiosity and a passion for building a
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg"/>
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gradle/gradle-original.svg"/>
-<img align="left" alt="Groovy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/groovy/groovy-original.svg"/>  
+<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg"/>
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
 <br />
   
 #
