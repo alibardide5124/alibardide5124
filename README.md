@@ -1,4 +1,4 @@
-# Ali Bardide
+# 👨‍💻 Ali Bardide
 **`Mobile Developer`**
 
 I'm an indie Android developer, fueled by curiosity and a passion for building awesome apps. Also a computer science student, constantly learning and growing my coding skills. My projects on GitHub are all built from the ground up – no shortcuts here! Want to connect and follow my progress? Find me on social media.
@@ -41,6 +41,6 @@ I'm an indie Android developer, fueled by curiosity and a passion for building a
 
 ### 📊 States
 
-![Ali's states](https://github-readme-stats.vercel.app/api?username=alibardide5124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical")
+![Ali's states](https://github-readme-stats.vercel.app/api?username=alibardide5124&show_icons=true&count_private=true&include_all_commits=true&theme=calm_pink)
 
 #
