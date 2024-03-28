@@ -9,7 +9,7 @@ I'm an indie Android developer, fueled by curiosity and a passion for building a
         <a href="https://www.youtube.com/c/channel">
            <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/ID?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
         -->
-    <a href="https://instagram.com/alibardide.5124">
+    <a href="https://www.linkedin.com/in/alibardide/">
       <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?logoSource=feather&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://instagram.com/alibardide.5124">
       <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-plum?logoSource=feather&style=for-the-badge&logo=instagram&logoColor=black"/></a>
