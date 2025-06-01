@@ -2,7 +2,7 @@
 
 I'm a computer engineering student, and Android Developer. Looking for fun stuff to build and challenge my abilities in messing them up. 
 
-[Check out my Website](https://ali-bardide.vercel.app)
+https://ali-bardide.vercel.app
 
 
 <div>
